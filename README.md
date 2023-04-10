@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivan Marchenko======================================================================================================================================* 🌍  I'm based in Russia, Krasnodar city* 🖥️  See my portfolio at [My Profile](http://github.com/shaolanx)* ✉️  You can contact me at [daggerx@mail.ru](mailto:daggerx@mail.ru)* 🧠  I'm learning React/Redux* 🤝  I'm open to collaborating on Interesting Projects and everything related to JS, React!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivan Marchenko
+======================================================================================================================================* 
+🌍  I'm based in Russia, Krasnodar city* 
+🖥️  See my portfolio at [My Profile](http://github.com/shaolanx)* 
+✉️  You can contact me at [daggerx@mail.ru](mailto:daggerx@mail.ru)* 
+🧠  I'm learning React/Redux* 
+🤝  I'm open to collaborating on Interesting Projects and everything related to JS, React!
 
 ### Skills
 
